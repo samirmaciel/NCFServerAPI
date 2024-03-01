@@ -1,0 +1,6 @@
+@ServerAPI_NCF_HostAddress = http://localhost:5053
+
+GET {{ServerAPI_NCF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

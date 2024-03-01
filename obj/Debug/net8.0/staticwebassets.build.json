@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dHtHGQHZJirg/WeEH0bEQuLqWirzUFg+/Ftr05Vpi1Y=",
+  "Source": "ServerAPI-NCF",
+  "BasePath": "_content/ServerAPI-NCF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
